@@ -18,6 +18,11 @@ Built it to understand hybrid search, vector databases, and agent loops
 from the inside — not just use a framework that hides all of that.
 `Python` `Mistral` `ChromaDB` `RAG` `Agents` `EN/FR`
 
+**[DataPlain Scan](https://chromewebstore.google.com/detail/dataplain-scan/fobohajdfokmgjkoahndoooodmjfmkih)**
+A Chrome extension that detects PII in web pages in real time — English and French.
+212+ installs. Built as part of DataPlain, an AI-powered GDPR compliance platform.
+`Chrome Extension` `PII Detection` `GDPR` `EN/FR`
+
 ---
 
 ### Outside the terminal
